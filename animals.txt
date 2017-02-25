@@ -1,0 +1,15 @@
+Wild cat
+Ferret
+Rat
+Mouse
+Dog
+Fox
+Lion
+Tiger
+Bear 
+Finch
+Seagull
+Warthog
+Hedgehog
+Snake
+
